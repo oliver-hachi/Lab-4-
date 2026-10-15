@@ -11,15 +11,14 @@ Help me create 8 neutral discovery questions for a neighborhood listing platform
 ChatGPT suggested questions about managing property listings, accurate information, business promotion, content approval, platform usefulness, and website accessibility.
 
 **Rejected Output:**
-None so far.
+No specific suggestions were rejected.
 
 **Verification:**
 I reviewed the questions to make sure they were relevant, neutral, and did not ask for private information.
 
-**Commit:**
-Not committed yet.
-
 ## 2. Gemini - Question Review (Step 2)
+
+**Purpose:** Check the questions for leading wording and privacy risks.
 
 **Prompt Used:**
 Review these 8 interview questions for bias, leading questions, and private information.
@@ -28,10 +27,15 @@ Review these 8 interview questions for bias, leading questions, and private info
 Gemini said most questions were good but suggested improving questions 5, 7, and 8.
 
 **Rejected Output:**
-None.
+No specific suggestions were rejected.
 
 **Verification:**
-I reviewed Gemini's feedback and updated questions 5, 7, and 8 to make them more neutral.
+I reviewed Gemini's feedback and updated questions 5, 7, and 8. I also checked that the questions covered success measures and accessibility, as required by the updated lab instructions.
 
-**Commit:**
-Not committed yet.
+## 3. Commit Record
+
+**Initial Commit:** `d7b3cc1`
+
+**Commit Message:** `Complete Lab 4 Steps 1-5`
+
+The initial discovery materials were committed and pushed to `lab-4-branch`. Future changes will be recorded in additional commits.

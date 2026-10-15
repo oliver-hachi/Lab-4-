@@ -1,4 +1,4 @@
-# Lab 4 Step 4
+# Lab 4 Step 3
 ## Invitation and Consent
 
 ## Invitation
